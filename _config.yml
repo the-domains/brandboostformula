@@ -1,0 +1,23 @@
+name: brandboostformula
+favicon: null
+layout_spectrum: 0.6841590495314449
+typography_spectrum: 0.3882275626529008
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.28931540972553194
+  lightness: 0.4523331350646913
+  saturation: 0.7272934697102755
+  rhythmicContrast: 0.2771404522936791
+purpose: []
